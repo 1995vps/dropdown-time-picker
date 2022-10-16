@@ -39,5 +39,19 @@
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.",
   "main": "index.js",
   "author": "Vishnu P S",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1995vps/dropdown-time-picker.git"
+  },
+  "keywords": [
+    "angular",
+    "dropdown",
+    "time",
+    "picker"
+  ],
+  "bugs": {
+    "url": "https://github.com/1995vps/dropdown-time-picker/issues"
+  },
+  "homepage": "https://github.com/1995vps/dropdown-time-picker#readme"
 }
